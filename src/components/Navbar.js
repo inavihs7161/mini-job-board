@@ -15,7 +15,7 @@ const Navbar = () => {
     <nav className="bg-stone-950 fixed w-full shadow-md z-50">
       <div className="max-w-7xl mx-auto px-6 py-4 flex justify-between items-center">
         <div className="text-2xl font-extrabold text-white cursor-pointer select-none">
-          JobBoard
+          Jobzilla
         </div>
         <div className="space-x-6">
           <Link to="/" className={linkClass("/")}>
